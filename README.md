@@ -1,14 +1,17 @@
 ![James GitHub Banner](./img/github_prifile_banner.jpg)
 
-Badges - each a link to a social
+<!--Badges - each a link to a social -->
 ------
+![Visits Badge](https://badges.pufler.dev/visits/james-demiraiakian/james-demiraiakian)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/james-demiraiakian/)
 
-Fancy looking link to portfolio site (MAKE PORTFOLIO SITE)
-------
+<!-- Fancy looking link to portfolio site (MAKE PORTFOLIO SITE) -->
 
-Intorduction (Short blurb about me)
-------
-🖥
+Hello!
+I am a full stack Software Developer who is skilled in JavaScript based libraries and frameworks. I approach every task with a very strategic mindset, yet remain very adaptable to every change in my workplace and job requirements.
+
+<br />
+
 
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-demiraiakian&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
