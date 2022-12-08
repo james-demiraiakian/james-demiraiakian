@@ -2,7 +2,7 @@
 
 <!--Badges - each a link to a social -->
 ------
-[![Visits Badge](https://badges.pufler.dev/visits/james-demiraiakian/james-demiraiakian)]
+![Visits Badge](https://badges.pufler.dev/visits/james-demiraiakian/james-demiraiakian)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/james-demiraiakian/)
 
 <!-- Fancy looking link to portfolio site (MAKE PORTFOLIO SITE) -->
